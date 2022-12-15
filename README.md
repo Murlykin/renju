@@ -1,1 +1,1 @@
-# renju
+# tic-tac-toe
